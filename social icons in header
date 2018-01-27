@@ -1,0 +1,5 @@
+Try this in Advanced → Custom CSS:
+
+.header .social-icons {
+font-size: 1.2em;
+}
