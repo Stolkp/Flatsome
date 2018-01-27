@@ -1,0 +1,4 @@
+.popup {
+  list-style-image: url("https://by-patrick.stolkp-webdesign.nl/wp-content/uploads/2017/12/li-icon.png");
+	margin-left: 45px;
+}
